@@ -6,7 +6,7 @@ This project features an interactive **Sales Report Dashboard** built using **Mi
 
 ## 📁 Project Overview
 
-**File:** `Sales Report (1).pbix`  
+**File:** `Sales Report .pbix`  
 **Tool:** Microsoft Power BI Desktop  
 **Domain:** Sales Analytics  
 **Goal:** Understand and visualize sales data trends, performance metrics, and business outcomes
